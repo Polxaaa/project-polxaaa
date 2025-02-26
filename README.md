@@ -1,2 +1,2 @@
 # project-polxaaa
-peoject tugas wgtik 
+project tugas wgtik 
